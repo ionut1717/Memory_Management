@@ -1,7 +1,5 @@
 # Memory Management in x86 Assembly
 
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/ionut1717/Memory_Management)
-
 This repository contains two x86 Assembly (AT&T syntax) programs that simulate basic memory management functionalities. These programs implement algorithms for allocating, retrieving, deleting, and defragmenting memory blocks within a simulated 16MB memory space.
 
 ## Implementations
